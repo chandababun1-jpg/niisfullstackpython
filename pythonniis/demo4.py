@@ -1,0 +1,16 @@
+print("enter mark1")
+m1=int(input())
+print("enter mark2")
+m2=int(input())
+print("enter mark3")
+m3=int(input())
+print("enter mark4")
+m4=int(input())
+total=m1+m2+m3+m4
+avg=total/4
+print("mark1",m1)
+print("mark2",m2)
+print("mark3",m3)
+print("mark4",m4)
+print("total",total)
+print("average mark",avg)

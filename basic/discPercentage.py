@@ -1,0 +1,6 @@
+print("enter price")
+p=float(input())
+print("enter discount percentage")
+dp=float(input())
+final=p-(p*dp/100)
+print("final price=",final)

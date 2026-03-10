@@ -1,3 +1,4 @@
+#wap to take 3 no from keyboard display biggest number
 print("enter three nos")
 no1=int(input())
 no2=int(input())

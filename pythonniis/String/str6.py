@@ -29,6 +29,6 @@ print("no of constant=",co)
 print("no of digit=",dg)
 print("no of space=",sp)
 print("no of symbol=",sy)
-print("no of wd=",wd)
+print("no of word=",wd)
 
 

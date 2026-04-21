@@ -4,7 +4,6 @@ def show():
 	print(x)
 	print(locals()['x'])
 	print(globals()['x'])
-	globals()['x']=50
-	x=60
+	globals()['x']=50	
 show()
 print(x)

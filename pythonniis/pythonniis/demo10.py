@@ -1,4 +1,4 @@
-n="suvendu"
+n="virat"
 r=1
 m=72
 print(n,m,r)
